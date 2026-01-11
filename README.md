@@ -16,7 +16,7 @@
 |------|---|---|
 |**[유노유노후](https://github.com/Likelion-wellcheers)**|2024.07. ~ 2024.08.|사용자 맞춤형 노후 지역 추천 및 여가시설 추천 서비스|
 |**[눈사람 공작소](https://github.com/Nune-ddine)**|2024.11. ~ 2024.11.|중앙대학교에 나만의 눈사람을 만들며 집에서도 겨울을 즐길 수 있는 서비스|
-|**[윷놀이](https://github.com/SE-TermProject/Yutnori)**|2025.03 ~ 2025.05|윷놀이를 N각형으로 커스터마이징하여 즐길 수 있는 서비스|
+|**[윷놀이](https://github.com/SE-TermProject/Yutnori)**|2025.03. ~ 2025.05.|윷놀이를 N각형으로 커스터마이징하여 즐길 수 있는 서비스|
 
 ## 🎖️ Stacks
 <div>
